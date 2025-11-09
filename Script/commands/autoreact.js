@@ -4,7 +4,7 @@ module.exports.config = {
   hasPermission: 0,
   credits: "rX",
   description: "Bot React",
-  commandCategory: "No Prefix",
+  commandCategory: "noPrefix",
   usages: '[]',
   cooldowns: 0,
 };
