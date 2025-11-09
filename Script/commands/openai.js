@@ -6,7 +6,7 @@ module.exports.config = {
   hasPermssion: 0,
   credits: "Rx Abdullah",
   description: "ChatGPT-3.5 power by rX",
-  commandCategory: "AI",
+  commandCategory: "box",
   cooldowns: 3,
   usePrefix: true
 };
