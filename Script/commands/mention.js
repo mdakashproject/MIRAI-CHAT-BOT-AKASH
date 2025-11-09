@@ -4,7 +4,7 @@ module.exports.config = {
  hasPermssion: 2,
  credits: "𝐀𝐊𝐀𝐒𝐇",
  description: "একবার করে বারবার কাউকে মেনশন করার কমান্ড",
- commandCategory: "group",
+ commandCategory: "fun",
  usages: "/mention @mention [count]",
  cooldowns: 5
 };
