@@ -4,7 +4,7 @@ module.exports.config = {
  'hasPermssion': 0x0,
  'credits': "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
  'description': "Make the bot return google's audio file via text",
- 'commandCategory': "media",
+ 'commandCategory': "Ai",
  'usages': "[bn] [Text]",
  'cooldowns': 0x5,
  'dependencies': {
