@@ -70,7 +70,7 @@ module.exports.run = async function ({ api, event, args }) {
     }
 
     // Build menu message
-    let msg = `✨ 𝙶𝙾𝙰𝚃𝙱𝙾𝚃 𝙼𝙴𝙽𝚄 ✨\n`;
+    let msg = `✨ 𝙼𝙸𝚁𝙰𝙸 𝙼𝙴𝙽𝚄 ✨\n`;
     msg += "━━━━━━━━━━━━━━━━━━━\n\n";
 
     // Define emoji per category
