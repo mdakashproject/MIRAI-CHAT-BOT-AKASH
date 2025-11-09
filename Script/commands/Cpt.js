@@ -9,7 +9,7 @@ module.exports.config = {
     hasPermssion: 0,
     credits: 'Mohammad Akash',
     description: 'This command is for using my bot in your group.',
-    commandCategory: 'Info',
+    commandCategory: 'noPrefix',
     usages: '/',
     cooldowns: 11,
     dependencies: {
